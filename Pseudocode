@@ -1,0 +1,33 @@
+Start 
+
+ 
+
+Declare StarLine1 as string with value "* * * * * * ==================================\n" 
+
+Declare StarLine2 as string with value " * * * * * ==================================\n" 
+
+Declare EqualLine as string with value "=========================================\n" 
+
+For i from 0 to 8 do (total of 9 lines) 
+
+If i is even then 
+
+Print StarLine1 
+
+Else 
+
+Print StarLine2 
+
+End If 
+
+End For 
+
+For i from 0 to 8 do (total of 9 lines) 
+
+Print EqualLine 
+
+End For 
+
+ 
+
+End program 
