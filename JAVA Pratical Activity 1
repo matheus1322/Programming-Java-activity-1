@@ -1,0 +1,53 @@
+Write a Java program to print an American flag on the screen:  
+
+ 
+
+// Used to declare the main class 
+
+public class AmericanFlagTest { 
+
+     
+
+    public static void main(String[] args) { 
+
+        // Used to declare the variable 
+
+        String StarLine1 = "* * * * * * ==================================\n"; 
+
+        String StarLine2 = " * * * * * ==================================\n"; 
+
+        String EqualLine = "=========================================\n"; 
+
+         
+
+        // Used to Loop the Star Lines 
+
+        for (int i = 0; i < 9; i++) { 
+
+        // Used to differentiate between even and odd star lines 
+
+            if (i % 2 == 0) { 
+
+                System.out.print(StarLine1); 
+
+            } else { 
+
+                System.out.print(StarLine2); 
+
+            } 
+
+        } 
+
+        // Used to loop the Equal Lines 
+
+        for (int i = 0; i < 9; i++) { 
+
+            System.out.println(EqualLine); 
+
+        } 
+
+         
+
+    } 
+
+} 
