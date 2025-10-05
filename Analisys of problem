@@ -1,0 +1,19 @@
+How are you going to solve the problem? 
+
+First, when I identified the problem, I used variables that we learned on first week, to determine and store each repeating line pattern, StarLine1, StarLine2, and Equaline. After determining the variables, I used the for loop to print the lines of code for the stars and stripes. After that, I used an if-else conditional structure inside the for loop that allows me to print alternating between the two StarLines, since one of them is even and the other odd. I used the modulo operator % that allowed me to alternate when one is odd and when the other is even. Because the flag pattern is stars and lines, I had to make a separation so that at the time of output the flag would be printed correctly. I used the techniques I learned in lessons 1 and 2 to solve the flag problem effectively and simply, so that my code would be easy to read and easy to modify, with a simple and uncluttered structure. 
+
+What programming constructs and techniques are you using? Why? 
+
+All techniques used were learned in the classroom, facilitating the readability of the code by keeping it clean and readable, ensuring flexibility by allowing you to adjust or change variables or loop patterns, efficiently reusing patterns and loops to reduce the amount of code and potential errors, and separating the codes into distinct parts since the patterns are not the same for star lines and equal lines. 
+
+ 
+
+Variables - because it makes the code less cluttered and easier to modify. 
+
+For Loop - because it allows me to repeat patterns in a concise and scalable way, reducing code duplication. 
+
+Conditional If-Else - because it ensures that my code is switched correctly while keeping it clear and easy to follow. 
+
+Module Operator - because it is the most efficient way to switch between loop-based patterns, it simplifies the logic and keeps the algorithm clear and easy to read. 
+
+Logical Separation - because it reflects the output of the flag correctly and keeps my code more organized and easier to modify and debug.  
