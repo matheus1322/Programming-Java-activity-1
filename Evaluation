@@ -1,0 +1,11 @@
+What are the strengths of your solution? 
+
+The strengths of my code are the simplicity written in a simple and direct manner, easy to understand and modify. The clean structure is easy to read and the correct use of variables and loops gives a good structure to the code. 
+
+What are the weaknesses? 
+
+The weak points are that I could encapsulate the logic in functions or methods but in classes 1 and 2 I still hadn't learned that, and the way the flag is standardized doesn't allow flexibility in customization. 
+
+In what way could it be improved? 
+
+For better optimization, I would make available to the user a way and tools to adjust the flag, as well as its customization, allowing the creation of other types of flags, and more clarity in the comments for better future modification if necessary. 
